@@ -1,10 +1,17 @@
-# Black Barbershop
+## Black Barber Shop
 
-A modern barbershop booking application built with React and TypeScript.
+Modern Barbershop Booking and Business Website
 
-## Project info
+Black Barber Shop is a modern web application developed to provide a professional digital presence for a barbershop while making it easier for customers to discover services, explore the business, and make enquiries or appointments.
 
-Premium barbershop booking experience for finding and booking appointments with local barbers.
+## Project Overview
+
+The project focuses on creating a clean, responsive, and visually engaging digital experience for a modern barbershop.
+
+It combines business information, service presentation, branding, and customer focused functionality into a single web platform designed to work seamlessly across mobile and desktop devices.
+
+
+Live Website: https://blackbarbershop.vercel.app/
 
 ## Getting Started
 
